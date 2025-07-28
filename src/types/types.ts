@@ -1,6 +1,6 @@
 export interface MemorizationProgress{
-    surah:"string";
+    surah: string;
     fromAyah:number;
     toAyah:number;  
-    data:"string";
+    date: string;
 }
