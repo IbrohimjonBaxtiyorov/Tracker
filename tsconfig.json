@@ -8,7 +8,7 @@
     },
     "allowJs": true,
     "checkJs": true,
-    "outDir": "./dir",
+    "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
